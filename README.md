@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/yednapmo/yednapmo/blob/main/cover.jpg" alt="cover" /> </p>
+<p align="center"> <img src="https://github.com/yednapmo/yednapmo/blob/main/cover.jpg" alt="cover" height="300px" width="100%" /> </p>
 
 <h1 align="center">Hi 👋, I'm Om Pandey</h1>
 <h3 align="center">An IT Fresher</h3>
