@@ -1,5 +1,14 @@
+<p align="center"> <img src="https://github.com/yednapmo/yednapmo/blob/main/cover.jpg" alt="cover" /> </p>
+
 <h1 align="center">Hi 👋, I'm Om Pandey</h1>
 <h3 align="center">An IT Fresher</h3>
+
+<img align="right" alt="myprofile" width="50%" src="https://github.com/yednapmo/yednapmo/blob/main/IMG_0304.jpg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yednapmo&label=Profile%20views&color=0e75b6&style=flat" alt="yednapmo" /> </p>
+
+
+
 
 - Interested in Web And Game Development. :grinning:
 - Currently learning React. :star_struck:
@@ -7,6 +16,11 @@
 - I love exploring and learning new skills as well as implement those in my projects.
 - I will be soon participating in hackathons. :sunglasses:
 - बस् एक मुठ्ठी सास थोरै आस मा अडिएको भयेनी निकै खास लाग्छ :: जिन्दगी :heart: 
+
+📄 Know about my experiences [portfolio](portfolio)
+
+⚡ Fun fact **I have no brain.**
+
 
 ---
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
@@ -77,24 +91,8 @@
 </a>
 </p>
 
----
-
-
-<h2 align="center">Others </h2>
-
-<p align="center">
-<a href="https://codepen.io/omey_sketch"  style="style="border-right-style: solid;margin-right: 100px;"">
-Codepen
-</a>
-  
-<a href="https://cssbattle.dev/player/omey_sketch">
-CSS Battle
-</a>        
-    
-</p>
 
 ---
 
 
-
-<h3 align="center">Thank you so much for coming here :pray:</h3>
+<h3 align="center">Thank you so much for visiting :pray:</h3>
